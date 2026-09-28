@@ -4,6 +4,7 @@
   <a href="https://github.com">My GitHub</a>
  </div>
 # The skills i am learning 
+<br> 
  - Markdown 
  - HTML 
  - Git and GitHub 
