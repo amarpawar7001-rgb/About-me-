@@ -3,7 +3,7 @@
    <p>My Name is Amar Hanumant Pawar. I am learning technical writing</p>
   <a href="https://github.com">My GitHub</a>
  </div>
-#The skills i am learning 
-- Markdown 
-- HTML 
-- Git and GitHub 
+# The skills i am learning 
+ - Markdown 
+ - HTML 
+ - Git and GitHub 
