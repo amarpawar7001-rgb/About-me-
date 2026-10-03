@@ -10,6 +10,7 @@
  - Git and GitHub 
  <div>
   its the destiny that matters the most in life
-  
   #fate 
  </div>
+<बीआर> 
+मुक्त औरा मारा ये जो समान हैं कम नज़राने से जो लाभ  </बीआर>
